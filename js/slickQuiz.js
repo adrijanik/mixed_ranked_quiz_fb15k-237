@@ -647,7 +647,7 @@
                         });
 			newForm.append(jQuery('<input>', {
                             'name': 'user',
-                            'value':  'highly-ranked-user-fb15k-237',
+                            'value':  'mixed-ranked-user-fb15k-237',
                             'type': 'text'
                         }));
 			newForm.append(jQuery('<input>', {
